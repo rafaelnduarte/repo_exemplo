@@ -8,6 +8,7 @@
 
 Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
 
+[Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
